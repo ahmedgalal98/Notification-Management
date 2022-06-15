@@ -1,0 +1,36 @@
+h1 {
+  display: flex;
+  margin-top: 60px;
+  margin-left: 200px;
+  padding-left: 10px;
+  background-color: #d5d8dc;
+  border-radius: 0px 0px 0px 15px;
+  max-width: 1000px;
+}
+.container {
+  display: flex;
+  max-width: 1000px;
+  margin-left: 200px;
+  margin-top: 10px;
+  hight: 50px;
+  border-bottom: 1px solid gray;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  position: relative;
+}
+
+.notification-name {
+  display: relative;
+  margin-left: 10px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.box {
+  box-shadow: 20px 20px 50px grey;
+  max-width: 1000px;
+  margin-left: 200px;
+}

@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  background-color: black;
+  padding-top: 30px;
+  padding-left: 40px;
+  color: white;
+  border-radius: 0px 20px 0px 20px;
+  height: 60px;
+  font-size: 30px;
+  font-weight: bold;
+}
